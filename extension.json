@@ -1,0 +1,13 @@
+{
+  "code": "thoughtco.ordersummary",
+  "name": "Order Summary",
+  "description": "Provides a day view of orders broken down by time slot",
+  "version": "v1.0.0",
+  "author": "ryanmitchell",
+  "icon": {
+    "class": "fa fa-thermometer",
+    "backgroundColor": "#111",
+    "color": "#FFF"
+  },
+  "homepage": "https://github.com/thoughtco/ti-ext-ordersummary"
+}
