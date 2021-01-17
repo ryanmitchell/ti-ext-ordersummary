@@ -29,7 +29,7 @@ class Extension extends BaseExtension
         return [
             'sales' => [
                 'child' => [
-                    'summary' => [
+                    'ordersummary' => [
                         'priority' => 10,
                         'class' => 'pages',
                         'href' => admin_url('thoughtco/ordersummary/summary'),
